@@ -1,6 +1,7 @@
 com/foodtruck/MenuItem.class
 com/foodtruck/Salad.class
-com/foodtruck/Sandwich.class
 com/foodtruck/Menu.class
-com/foodtruck/App.class
 com/foodtruck/Drink.class
+com/foodtruck/Trio.class
+com/foodtruck/Sandwich.class
+com/foodtruck/App.class

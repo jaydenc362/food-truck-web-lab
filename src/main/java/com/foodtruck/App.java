@@ -91,7 +91,7 @@ public class App {
                         + "</body></html>";
             }
 
-            double total = salad.getPrice() + sandwich.getPrice() + drink.getPrice();
+            double total = new Trio(salad, sandwich, drink).getTrioPrice();
 
             String html = "<html><body>";
             html += "<h2>Your Order</h2>";
